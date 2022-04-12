@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-shadow: 0 0 5px white;
+    color: rgb(209, 47, 109);
+}
+label{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+}
+
+p{
+    color: green;
+    border: 3px solid black;
+    padding: 5px;
+    font-weight: bold;
+    background-color: white;
+}
